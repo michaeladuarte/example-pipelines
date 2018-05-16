@@ -1,4 +1,2 @@
 This dummy file is used to demonstrate triggering a pipelines build.
 It's super cool.
-TEST
-TEST 2
